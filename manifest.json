@@ -1,0 +1,25 @@
+{
+  "name": "Jhajhwa Pahad Baba Mandir",
+  "short_name": "Jhajhwa Baba",
+  "description": "झाझवा पहाड़ बाबा मंदिर - पंडित बुकिंग, यजमान रजिस्ट्रेशन और मंदिर की जानकारी",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf6e3",
+  "theme_color": "#5c1a1a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
